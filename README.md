@@ -218,46 +218,6 @@ I'm continuously working towards developing practical applications that showcase
 
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MunmunPradhan&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=MunmunPradhan&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MunmunPradhan&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MunmunPradhan&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
-<!-- ===================== TROPHIES ===================== -->
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MunmunPradhan&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=4" width="100%" />
-
-</div>
-
----
-
 <!-- ===================== CONNECT ===================== -->
 
 # 🌐 Let's Connect & Collaborate
