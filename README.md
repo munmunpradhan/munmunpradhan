@@ -1,182 +1,304 @@
 
-# 👋 Hi, I'm Munmun Pradhan!
+<!-- ===================== HERO SECTION ===================== -->
 
-### Aspiring Software Developer | BCA Student | Technology Enthusiast
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Passionate+About+Technology;Java+%7C+JavaScript+%7C+Web+Development;Always+Learning+Something+New!" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Munmun%20Pradhan&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Developer%20%7C%20BCA%20Student&descAlignY=60&descSize=18" width="100%" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Passionate+Software+Developer;Java+%7C+JavaScript+%7C+Web+Development;Building+Ideas+Into+Reality;Always+Learning.+Always+Growing." />
+
+<br/>
+
+<a href="https://github.com/MunmunPradhan">
+<img src="https://komarev.com/ghpvc/?username=MunmunPradhan&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+</a>
+
+<a href="https://github.com/MunmunPradhan?tab=followers">
+<img src="https://img.shields.io/github/followers/MunmunPradhan?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github" />
+</a>
+
+<a href="mailto:pradhanmunmun36@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT%20ME-EMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<!-- ===================== ABOUT ME ===================== -->
+
+# 👩‍💻 About Me
+
+<img align="right" alt="Coding Animation" width="340" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+Hello! I'm **Munmun Pradhan**, a passionate BCA student at **CCLMS**, enthusiastic about software engineering, programming, and modern technology.
+
+I love exploring new technologies, developing creative solutions, and continuously improving my programming skills.
+
+My journey is focused on transforming ideas into meaningful digital experiences through code.
+
+### ✨ A Little About Me
+
+- 🎓 BCA Student at CCLMS.
+- 💻 Aspiring Software Developer.
+- ☕ Currently learning Java and OOP.
+- 🌐 Exploring Web Development.
+- ⚡ Learning JavaScript and React.
+- 🐍 Exploring Python and programming concepts.
+- 🎨 Interested in UI/UX and modern interfaces.
+- 🧠 Passionate about problem-solving.
+- 🤝 Open to collaboration and new opportunities.
+
+<br clear="right"/>
+
+---
+
+<!-- ===================== CAREER OBJECTIVE ===================== -->
+
+# 🎯 Career Objective
+
+To become a professional Software Developer with strong programming fundamentals, practical development experience, and the ability to build scalable and user-friendly applications.
+
+I aim to continuously explore modern technologies, develop real-world projects, contribute to collaborative environments, and grow as a technology professional.
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+# 💻 Technologies & Tools
+
+### 🚀 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp&perline=5" height="90"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MunmunPradhan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+### 🌐 Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react&perline=5" height="90"/>
+</p>
+
+### 🗄️ Database & Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,nodejs&perline=5" height="90"/>
+</p>
+
+### 🛠️ Development Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma&perline=5" height="90"/>
+</p>
+
+### ☁️ Hosting & Deployment
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=netlify,vercel&perline=5" height="90"/>
 </p>
 
 ---
 
-## 🚀 About Me
+<!-- ===================== CURRENT FOCUS ===================== -->
 
-I'm **Munmun Pradhan**, a passionate and enthusiastic Bachelor of Computer Applications (BCA) student at **CCLMS**, with a strong interest in software development, programming, and emerging technologies.
+# 📚 Currently Learning
 
-I enjoy exploring how technology works, understanding programming concepts, and transforming ideas into practical solutions. My journey in computer science is driven by curiosity, creativity, and a continuous desire to learn and improve.
+<table>
+<tr>
+<td width="50%">
 
-Currently, I'm focusing on strengthening my programming fundamentals, developing my web development skills, and gaining hands-on experience by building projects.
+### ☕ Java Development
+- Core Java
+- Object-Oriented Programming
+- Data Structures
+- Problem Solving
 
-- 🎓 Pursuing Bachelor of Computer Applications (BCA) at CCLMS.
-- 💻 Passionate about Software Development and Computer Science.
-- ☕ Learning Java and strengthening Object-Oriented Programming concepts.
-- 🌐 Exploring Frontend Development and modern web technologies.
-- ⚡ Practicing JavaScript, HTML, CSS, and responsive web design.
-- 🐍 Exploring Python and other programming languages.
-- 🎨 Interested in UI/UX design and creating user-friendly interfaces.
-- 🧠 Improving problem-solving, logical thinking, and coding skills.
-- 🤝 Open to collaboration, internships, learning opportunities, and connecting with developers.
+</td>
+<td width="50%">
 
-**My philosophy is simple: Learn continuously, build consistently, and grow every day.**
+### 🌐 Web Development
+- HTML5 & CSS3
+- JavaScript
+- Responsive Web Design
+- React Fundamentals
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🐍 Programming
+- Python Fundamentals
+- Logical Thinking
+- Coding Practice
+- Algorithms
+
+</td>
+<td width="50%">
+
+### 🗄️ Database & Tools
+- MySQL
+- Git & GitHub
+- Version Control
+- Figma
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 Career Objective
+<!-- ===================== WHAT I DO ===================== -->
 
-My goal is to become a skilled and professional Software Developer with strong technical knowledge, practical development experience, and the ability to solve real-world problems through technology.
+# ⚡ What I'm Interested In
 
-I aim to continuously expand my knowledge of programming languages, software development methodologies, modern frameworks, and development tools.
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/code.png" width="75"/>
 
-I'm particularly interested in developing applications that are efficient, scalable, user-friendly, and capable of making a positive impact.
+### Software Development
 
----
+Building functional applications and learning software engineering principles.
+</td>
 
-## 💻 Technical Skills & Technologies
-
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
-</p>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/web.png" width="75"/>
 
 ### Web Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+Creating responsive, interactive, and modern websites.
+</td>
 
-### Database & Development Tools
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/brain.png" width="75"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,gitlab,vscode" />
-</p>
+### Problem Solving
 
-### UI/UX Design & Deployment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,netlify,vercel" />
-</p>
+Developing logical thinking and programming skills.
+</td>
+</tr>
+</table>
 
 ---
 
-## 📚 Currently Learning & Exploring
+<!-- ===================== GOALS ===================== -->
 
-| Area | Current Focus |
-|---|---|
-| Java | Core Java, OOP, Data Structures |
-| JavaScript | Programming fundamentals and DOM |
-| Frontend Development | HTML5, CSS3, JavaScript, React |
-| Python | Programming fundamentals |
-| Database | MySQL and database management |
-| Version Control | Git and GitHub |
-| UI/UX | Figma and user interface design |
-| Problem Solving | Logical thinking and coding challenges |
+# 🎯 My Development Roadmap
 
----
-
-## 🛠️ What I'm Interested In
-
-- **Software Development:** Building useful applications and understanding software architecture.
-- **Web Development:** Creating modern, responsive, and interactive websites.
-- **Problem Solving:** Improving logical thinking through programming challenges.
-- **Application Development:** Exploring how real-world software applications are designed and developed.
-- **UI/UX Design:** Creating clean, accessible, and user-friendly digital experiences.
-- **Emerging Technologies:** Exploring new tools, frameworks, and technologies in the software industry.
-
----
-
-## 🌟 My Development Goals
-
-- [ ] Strengthen Core Java and Object-Oriented Programming.
-- [ ] Improve Data Structures and Algorithms.
-- [ ] Develop advanced JavaScript skills.
+- [ ] Master Core Java and OOP.
+- [ ] Learn Data Structures and Algorithms.
+- [ ] Improve JavaScript skills.
 - [ ] Learn React and modern frontend development.
-- [ ] Build and publish real-world development projects.
-- [ ] Improve database and backend development knowledge.
+- [ ] Build full-fledged web applications.
+- [ ] Improve database and backend knowledge.
 - [ ] Contribute to open-source projects.
-- [ ] Build a professional developer portfolio.
-- [ ] Prepare for software development internships and opportunities.
+- [ ] Build a professional portfolio.
+- [ ] Gain practical software development experience.
 
 ---
 
-## 📂 Featured Projects
+<!-- ===================== PROJECTS ===================== -->
 
-I believe practical experience is one of the best ways to become a better developer.
+# 🚀 Projects & Development
 
-I'm continuously working towards building projects that demonstrate my programming knowledge, creativity, and problem-solving abilities.
+I believe that the best way to learn programming is by building projects.
 
-🔗 **Explore My GitHub Repositories:**
+I'm continuously working towards developing practical applications that showcase my creativity, technical knowledge, and problem-solving abilities.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Projects-181717?style=for-the-badge&logo=github)](https://github.com/MunmunPradhan)
+<div align="center">
 
----
+<a href="https://github.com/MunmunPradhan?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" height="45"/>
+</a>
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MunmunPradhan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=MunmunPradhan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MunmunPradhan&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
+</div>
 
 ---
 
-## 🏆 GitHub Achievements
+<!-- ===================== GITHUB ANALYTICS ===================== -->
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MunmunPradhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
-</p>
+# 📊 GitHub Analytics
 
----
+<div align="center">
 
-## 🌐 Connect With Me
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MunmunPradhan&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-I'm always happy to connect with fellow developers, students, and technology enthusiasts. Feel free to reach out!
+<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=MunmunPradhan&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/munmun-pradhan-56b27a392">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:pradhanmunmun36@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/MunmunPradhan">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<br/><br/>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MunmunPradhan&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
 
 ---
 
-## 💡 A Little More About Me
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
-- 🌱 I believe learning is a lifelong process.
-- 💻 I enjoy experimenting with new technologies.
-- 🔍 I love understanding how things work behind the scenes.
-- 🚀 I believe every project is an opportunity to learn something new.
-- 🤝 I value teamwork, collaboration, and knowledge sharing.
-- 🎯 I'm focused on becoming a better developer one step at a time.
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MunmunPradhan&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
 
 ---
 
-<h3 align="center">✨ "Code. Learn. Build. Improve. Repeat." ✨</h3>
+<!-- ===================== TROPHIES ===================== -->
 
-<p align="center">
-  <b>Thank you for visiting my profile! Have a great day! 😊</b>
-</p>
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MunmunPradhan&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=4" width="100%" />
+
+</div>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+# 🌐 Let's Connect & Collaborate
+
+I'm always excited to connect with developers, students, and technology enthusiasts.
+
+Whether it's sharing knowledge, discussing ideas, or collaborating on projects, feel free to connect with me!
+
+<div align="center">
+
+<a href="https://linkedin.com/in/munmun-pradhan-56b27a392">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45"/>
+</a>
+
+<a href="mailto:pradhanmunmun36@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45"/>
+</a>
+
+<a href="https://github.com/MunmunPradhan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="45"/>
+</a>
+
+<br/><br/>
+
+### 📬 Email
+**pradhanmunmun36@gmail.com**
+
+</div>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
+
+### ✨ Code. Create. Innovate. Repeat. ✨
+
+**"Every expert was once a beginner. Keep learning, keep building, and never stop growing."**
+
+⭐ Thank you for visiting my profile!
+
+</div>
